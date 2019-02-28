@@ -39,6 +39,8 @@ public class Main {
 	}
 	
 	public static boolean checkAnswer(int answer) {
+		
+		
 		return true;
 	}
 }
